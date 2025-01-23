@@ -5,10 +5,10 @@ The North Traders want to Analyze sales trends, product performance, key custome
 ## Dataset used 
 - <a href="https://github.com/marvellousekpen/Data-Analysis-Dashboard/blob/main/Northwind%20project.xlsx">Dataset</a>
 ## Recommended Analysis
-Are they any noticeable sales trends over time?
-Which are the best and worst selling products?
-Can you identify any key customers?
-Are shipping costs consistent across providers?
+- Are they any noticeable sales trends over time?
+- Which are the best and worst selling products?
+- Can you identify any key customers?
+- Are shipping costs consistent across providers?
 ## Process
 - verify data for any missing values and anomalies, and sort out the same.
 - made sure data is consistent and clean with respect to data types, data format and values used.
